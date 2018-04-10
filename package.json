@@ -25,15 +25,15 @@
   "homepage": "https://github.com/mbroadst/amqp10-rpc#readme",
   "dependencies": {
     "ajv": "^4.5.0",
-    "bluebird": "^3.4.1",
+    "bluebird": "^3.5.1",
     "uuid": "^2.0.2"
   },
   "devDependencies": {
-    "amqp10": "^3.2.3",
+    "amqp10": "^3.6.0",
     "chai": "^3.5.0",
     "chai-as-promised": "^5.3.0",
     "istanbul": "^0.4.4",
-    "jshint": "^2.9.2",
-    "mocha": "^3.0.2"
+    "jshint": "^2.9.5",
+    "mocha": "^3.5.3"
   }
 }
